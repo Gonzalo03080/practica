@@ -5,6 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
+      <h3>hola</h3>
     </div>
   );
 }
